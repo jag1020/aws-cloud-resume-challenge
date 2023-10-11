@@ -16,3 +16,11 @@ Services Used:
 * Dynamo DB
 * GitHub Actions
 * Terraform
+
+# Challenge Stages
+### HTML CSS & JS
+To complete this step, I needed to familiarize myself with HTML, CSS, and JS as most of the code is already written for you. You simply need to edit the HTML files with your own information and create a simple JavaScript script for counting number of visitors.
+### S3, Route53 and Cloudfront
+The next step is to create an S3 bucket uploaded with my static website and enable HTTPS using Cloudfront, an AWS CDN service. I also had to register a domain using route53 and configure the proper records. Finally to complete this integration I needed to request a certificate using AWS ACM and link it to my domain to establish the HTTPS connection to my website. 
+### Wrapping it all up
+The steps that follow include creating a DynamoDB database, writing Python Lambda functions, and using Terraform for Infrastructure as Code (IAC). I'll also be using GitHub for source control and setting up Continuous Integration and Continuous Deployment (CI/CD) for my website's frontend and backend.
