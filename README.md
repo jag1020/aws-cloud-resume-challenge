@@ -28,4 +28,4 @@ The steps that follow include creating a DynamoDB database, writing Python Lambd
 While completing this challenge I encountered some issues pertaining to security between the multiple AWS services. I had to troubleshoot and learn how to apply the correct IAM roles and policies to the different services (Lambda,DynamoDB,S3) for them to be able to securly communicate to eachother.
 
 # Thank you
-This challenge tested my ability to launch and configure multiple AWS services and use Infastructure as Code to deploy a static website promoting my experience and ceritifcation to potential employers. Thank you for taking the time to learn more about my experience with the AWS Cloud Resume Challenge. 
+This challenge tested my ability to launch and configure multiple AWS services and use Infastructure as Code to deploy a static website promoting my experience and ceritifcations to potential employers. Thank you for taking the time to learn more about my experience with the AWS Cloud Resume Challenge. 
